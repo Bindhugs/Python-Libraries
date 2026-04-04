@@ -1,7 +1,7 @@
-#Basics of matplotlib
-
 import matplotlib.pyplot as plt
 import numpy as np
+
+#Basics of matplotlib
 
 x = np.array([12,23,34,25])
 y = np.array([12,14,15,19])
