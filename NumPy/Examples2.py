@@ -11,4 +11,3 @@ print(np.sum(array)) #sum of all elements
 print(np.mean(array)) #mean 
 print(np.max(array)) #maximum
 print(array.reshape(5, 2)) #reshapes the given array
-
