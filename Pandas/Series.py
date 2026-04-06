@@ -1,3 +1,5 @@
+#Series
+
 import pandas as pd
 
 calorie = [100,120,140]
