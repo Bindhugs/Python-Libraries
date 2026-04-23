@@ -18,7 +18,6 @@ plt.show()
 
 #PIE CHARTS
 
-
 categories = np.array(["Freshmen","Sophomore","Junior","Senior"])
 values = np.array([300, 200, 275, 150])
 colors = ['lavender','violet','plum','thistle']
