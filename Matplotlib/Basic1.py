@@ -14,7 +14,7 @@ plt.plot(x,y,
          markerfacecolor = 'Blue',
          markersize = 20
          ) #This is for ploting customization
-  
+
 
 plt.title("Class size",
           fontsize = 20,
